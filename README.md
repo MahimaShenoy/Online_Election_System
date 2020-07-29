@@ -4,4 +4,4 @@ A website in which students of a college can elect the candidates participating 
 
 Admin selects the candidates participating in the election and also the date of election.
 
-Developed using HTML, Bootstrap, CSS, PHP, JavaScript, MySQL.
+Developed using HTML, Bootstrap, CSS, PHP, JavaScript and MySQL.
